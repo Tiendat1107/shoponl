@@ -1,0 +1,14 @@
+span.text-alert {
+    color: #f44336;
+    font-size: 17px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+
+}
+span.fa-regular.fa-eye-slash{
+    font-size: 1.1em;
+}
+span.fa-regular.fa-eye{
+    font-size: 1.2em;
+}
